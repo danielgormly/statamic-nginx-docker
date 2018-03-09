@@ -7,10 +7,10 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./statamic:/var/www/statmic-site/
+      - ./statamic:/var/www/statamic-site/
   fpm:
     build:
       context: ./
       dockerfile: fpm.Dockerfile
     volumes:
-      - ./statamic:/var/www/statmic-site/
+      - ./statamic:/var/www/statamic-site/
