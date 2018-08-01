@@ -5,7 +5,7 @@ Built for a client requiring site built in Statamic. Include Statamic files in d
 ## Installation
 
 - Clone repository
-- Download [https://statamic.com/](statamic) and extract into `./statamic`
+- Download [Statamic](https://statamic.com/) and extract into `./statamic`
 - Run `docker-compose up -d` to start
 - Listening on port 8000
 - Run statamic installer `<host>/installer.php`
