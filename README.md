@@ -1,8 +1,8 @@
 # Basic Statamic & Nginx Docker Setup
 
-**Statamic 3: See [statamic3-nginx-docker](https://github.com/danielgormly/statamic3-nginx-docker/)**
+**For Statamic 3, see [statamic3-nginx-docker](https://github.com/danielgormly/statamic3-nginx-docker/)**
 
-Built for a client requiring site built in Statamic. Include Statamic files in directory `statamic`.
+Statamic 2.x Docker setup with Nginx.git
 
 ## Installation
 
